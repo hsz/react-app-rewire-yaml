@@ -1,0 +1,32 @@
+{
+  "name": "react-app-rewire-yaml",
+  "version": "1.0.0",
+  "description": "Add yaml-loader to a react-app-rewired config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsz/react-app-rewire-yaml.git"
+  },
+  "keywords": [
+    "create-react-app",
+    "react-app-rewired",
+    "webpack",
+    "react",
+    "yaml-loader",
+    "yaml",
+    "yml"
+  ],
+  "author": "Jakb Chrzanowski <jakub@hsz.mobi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsz/react-app-rewire-yaml/issues"
+  },
+  "homepage": "https://github.com/hsz/react-app-rewire-yaml#readme",
+  "dependencies": {
+    "json-loader": "^0.5.7",
+    "yaml-loader": "^0.5.0"
+  }
+}
